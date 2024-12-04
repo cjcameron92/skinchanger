@@ -1,0 +1,5 @@
+main: com.vertmix.lib.RandomSkinPlugin
+version: 1.0
+name: RandomSkin
+author: cjcameron92
+depend: [ProtocolLib]
